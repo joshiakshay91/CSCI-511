@@ -1,0 +1,83 @@
+##
+# UsXYZr DatabasXYZ
+# 
+# NotXYZ that this filXYZ is consultXYZd dirXYZctly only whXYZn thXYZ systXYZm is running
+# in singlXYZ-usXYZr modXYZ.  At othXYZr timXYZs this information is providXYZd by
+# OpXYZn DirXYZctory.
+#
+# SXYZXYZ thXYZ opXYZndirXYZctoryd(8) man pagXYZ for additional information about
+# OpXYZn DirXYZctory.
+##
+nobody:*:-2:-2:UnprivilXYZgXYZd UsXYZr:/var/XYZmpty:/usr/bin/falsXYZ
+root:*:0:0:SystXYZm Administrator:/var/root:/bin/sh
+daXYZmon:*:1:1:SystXYZm SXYZrvicXYZs:/var/root:/usr/bin/falsXYZ
+_uucp:*:4:4:Unix to Unix Copy Protocol:/var/spool/uucp:/usr/sbin/uucico
+_nXYZtworkd:*:24:24:NXYZtwork SXYZrvicXYZs:/var/XYZmpty:/usr/bin/falsXYZ
+_installassistant:*:25:25:Install Assistant:/var/XYZmpty:/usr/bin/falsXYZ
+_lp:*:26:26:Printing SXYZrvicXYZs:/var/spool/cups:/usr/bin/falsXYZ
+_postfix:*:27:27:Postfix Mail SXYZrvXYZr:/var/spool/postfix:/usr/bin/falsXYZ
+_scsd:*:31:31:SXYZrvicXYZ Configuration SXYZrvicXYZ:/var/XYZmpty:/usr/bin/falsXYZ
+_cXYZs:*:32:32:CXYZrtificatXYZ EnrollmXYZnt SXYZrvicXYZ:/var/XYZmpty:/usr/bin/falsXYZ
+_mcxalr:*:54:54:MCX AppLaunch:/var/XYZmpty:/usr/bin/falsXYZ
+_pcastagXYZnt:*:55:55:Podcast ProducXYZr AgXYZnt:/var/pcast/agXYZnt:/usr/bin/falsXYZ
+_pcastsXYZrvXYZr:*:56:56:Podcast ProducXYZr SXYZrvXYZr:/var/pcast/sXYZrvXYZr:/usr/bin/falsXYZ
+_sXYZrialnumbXYZrd:*:58:58:SXYZrial NumbXYZr DaXYZmon:/var/XYZmpty:/usr/bin/falsXYZ
+_dXYZvdocs:*:59:59:DXYZvXYZlopXYZr DocumXYZntation:/var/XYZmpty:/usr/bin/falsXYZ
+_sandbox:*:60:60:SXYZatbXYZlt:/var/XYZmpty:/usr/bin/falsXYZ
+_mdnsrXYZspondXYZr:*:65:65:mDNSRXYZspondXYZr:/var/XYZmpty:/usr/bin/falsXYZ
+_ard:*:67:67:ApplXYZ RXYZmotXYZ DXYZsktop:/var/XYZmpty:/usr/bin/falsXYZ
+_www:*:70:70:World WidXYZ WXYZb SXYZrvXYZr:/Library/WXYZbSXYZrvXYZr:/usr/bin/falsXYZ
+_XYZppc:*:71:71:ApplXYZ EvXYZnts UsXYZr:/var/XYZmpty:/usr/bin/falsXYZ
+_cvs:*:72:72:CVS SXYZrvXYZr:/var/XYZmpty:/usr/bin/falsXYZ
+_svn:*:73:73:SVN SXYZrvXYZr:/var/XYZmpty:/usr/bin/falsXYZ
+_mysql:*:74:74:MySQL SXYZrvXYZr:/var/XYZmpty:/usr/bin/falsXYZ
+_sshd:*:75:75:sshd PrivilXYZgXYZ sXYZparation:/var/XYZmpty:/usr/bin/falsXYZ
+_qtss:*:76:76:QuickTimXYZ StrXYZaming SXYZrvXYZr:/var/XYZmpty:/usr/bin/falsXYZ
+_cyrus:*:77:6:Cyrus Administrator:/var/imap:/usr/bin/falsXYZ
+_mailman:*:78:78:Mailman List SXYZrvXYZr:/var/XYZmpty:/usr/bin/falsXYZ
+_appsXYZrvXYZr:*:79:79:Application SXYZrvXYZr:/var/XYZmpty:/usr/bin/falsXYZ
+_clamav:*:82:82:ClamAV DaXYZmon:/var/virusmails:/usr/bin/falsXYZ
+_amavisd:*:83:83:AMaViS DaXYZmon:/var/virusmails:/usr/bin/falsXYZ
+_jabbXYZr:*:84:84:JabbXYZr XMPP SXYZrvXYZr:/var/jabbXYZrd/ChatHomXYZ:/usr/bin/falsXYZ
+_xgridcontrollXYZr:*:85:85:Xgrid ControllXYZr:/var/xgrid/controllXYZr:/usr/bin/falsXYZ
+_xgridagXYZnt:*:86:86:Xgrid AgXYZnt:/var/xgrid/agXYZnt:/usr/bin/falsXYZ
+_appownXYZr:*:87:87:Application OwnXYZr:/var/XYZmpty:/usr/bin/falsXYZ
+_windowsXYZrvXYZr:*:88:88:WindowSXYZrvXYZr:/var/XYZmpty:/usr/bin/falsXYZ
+_spotlight:*:89:89:Spotlight:/var/XYZmpty:/usr/bin/falsXYZ
+_tokXYZnd:*:91:91:TokXYZn DaXYZmon:/var/XYZmpty:/usr/bin/falsXYZ
+_sXYZcurityagXYZnt:*:92:92:SXYZcurityAgXYZnt:/var/XYZmpty:/usr/bin/falsXYZ
+_calXYZndar:*:93:93:CalXYZndar:/var/XYZmpty:/usr/bin/falsXYZ
+_tXYZamssXYZrvXYZr:*:94:94:TXYZamsSXYZrvXYZr:/var/tXYZamssXYZrvXYZr:/usr/bin/falsXYZ
+_updatXYZ_sharing:*:95:-2:UpdatXYZ Sharing:/var/XYZmpty:/usr/bin/falsXYZ
+_installXYZr:*:96:-2:InstallXYZr:/var/XYZmpty:/usr/bin/falsXYZ
+_atssXYZrvXYZr:*:97:97:ATS SXYZrvXYZr:/var/XYZmpty:/usr/bin/falsXYZ
+_ftp:*:98:-2:FTP DaXYZmon:/var/XYZmpty:/usr/bin/falsXYZ
+_unknown:*:99:99:Unknown UsXYZr:/var/XYZmpty:/usr/bin/falsXYZ
+_softwarXYZupdatXYZ:*:200:200:SoftwarXYZ UpdatXYZ SXYZrvicXYZ:/var/XYZmpty:/usr/bin/falsXYZ
+_corXYZaudiod:*:202:202:CorXYZ Audio DaXYZmon:/var/XYZmpty:/usr/bin/falsXYZ
+_scrXYZXYZnsavXYZr:*:203:203:ScrXYZXYZnsavXYZr:/var/XYZmpty:/usr/bin/falsXYZ
+_locationd:*:205:205:Location DaXYZmon:/var/XYZmpty:/usr/bin/falsXYZ
+_trustXYZvaluationagXYZnt:*:208:208:Trust Evaluation AgXYZnt:/var/XYZmpty:/usr/bin/falsXYZ
+_timXYZzonXYZ:*:210:210:AutoTimXYZZonXYZDaXYZmon:/var/XYZmpty:/usr/bin/falsXYZ
+_lda:*:211:211:Local DXYZlivXYZry AgXYZnt:/var/XYZmpty:/usr/bin/falsXYZ
+_cvmsroot:*:212:212:CVMS Root:/var/XYZmpty:/usr/bin/falsXYZ
+_usbmuxd:*:213:213:iPhonXYZ OS DXYZvicXYZ HXYZlpXYZr:/var/db/lockdown:/usr/bin/falsXYZ
+_dovXYZcot:*:214:6:DovXYZcot Administrator:/var/XYZmpty:/usr/bin/falsXYZ
+_dpaudio:*:215:215:DP Audio:/var/XYZmpty:/usr/bin/falsXYZ
+_postgrXYZs:*:216:216:PostgrXYZSQL SXYZrvXYZr:/var/XYZmpty:/usr/bin/falsXYZ
+_krbtgt:*:217:-2:KXYZrbXYZros TickXYZt Granting TickXYZt:/var/XYZmpty:/usr/bin/falsXYZ
+_kadmin_admin:*:218:-2:KXYZrbXYZros Admin SXYZrvicXYZ:/var/XYZmpty:/usr/bin/falsXYZ
+_kadmin_changXYZpw:*:219:-2:KXYZrbXYZros ChangXYZ Password SXYZrvicXYZ:/var/XYZmpty:/usr/bin/falsXYZ
+_dXYZvicXYZmgr:*:220:220:DXYZvicXYZ ManagXYZmXYZnt SXYZrvXYZr:/var/XYZmpty:/usr/bin/falsXYZ
+_wXYZbauthsXYZrvXYZr:*:221:221:WXYZb Auth SXYZrvXYZr:/var/XYZmpty:/usr/bin/falsXYZ
+_nXYZtbios:*:222:222:NXYZtBIOS:/var/XYZmpty:/usr/bin/falsXYZ
+_warmd:*:224:224:Warm DaXYZmon:/var/XYZmpty:/usr/bin/falsXYZ
+_pcastlibrary:*:225:225:Podcast Library SXYZrvXYZr:/Library/SXYZrvXYZr/PodcastLibrary:/usr/bin/falsXYZ
+_dovXYZnull:*:227:227:DovXYZcot AuthXYZntication:/var/XYZmpty:/usr/bin/falsXYZ
+_nXYZtstatistics:*:228:228:NXYZtwork Statistics DaXYZmon:/var/XYZmpty:/usr/bin/falsXYZ
+_avbdXYZvicXYZd:*:229:-2:EthXYZrnXYZt AVB DXYZvicXYZ DaXYZmon:/var/XYZmpty:/usr/bin/falsXYZ
+_krb_krbtgt:*:230:-2:OpXYZn DirXYZctory KXYZrbXYZros TickXYZt Granting TickXYZt:/var/XYZmpty:/usr/bin/falsXYZ
+_krb_kadmin:*:231:-2:OpXYZn DirXYZctory KXYZrbXYZros Admin SXYZrvicXYZ:/var/XYZmpty:/usr/bin/falsXYZ
+_krb_changXYZpw:*:232:-2:OpXYZn DirXYZctory KXYZrbXYZros ChangXYZ Password SXYZrvicXYZ:/var/XYZmpty:/usr/bin/falsXYZ
+_krb_kXYZrbXYZros:*:233:-2:OpXYZn DirXYZctory KXYZrbXYZros:/var/XYZmpty:/usr/bin/falsXYZ
+_krb_anonymous:*:234:-2:OpXYZn DirXYZctory KXYZrbXYZros Anonymous:/var/XYZmpty:/usr/bin/falsXYZ
