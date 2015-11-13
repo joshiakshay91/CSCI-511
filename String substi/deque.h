@@ -28,20 +28,17 @@ TrackingDeque<dType>::TrackingDeque()
 
 template<class dType>
 TrackingDeque<dType>::~TrackingDeque()
-{
-//  cout<<"SIZE:"<<max_size<<endl;
-}
+{}
+
 template<class dType>
 void TrackingDeque<dType>:: push_back(const dType& value)
 {
-//		cout<<"PUSH"<<endl;
 deque<dType>::push_back(value);
 ++max_size;
 }
 template<class dType>
 void TrackingDeque<dType>:: pop_back()
 {
-	//	cout<<"POP"<<endl;
   deque<dType>::pop_back();
 	--max_size;
 }
@@ -49,14 +46,13 @@ void TrackingDeque<dType>:: pop_back()
 template<class dType>
 void TrackingDeque<dType>:: push_front(const dType& value)
 {
-		//cout<<"PUSH"<<endl;
   deque<dType>::push_front(value);
   ++max_size;
 }
+
 template<class dType>
 void TrackingDeque<dType>:: pop_front()
 {
-//	cout<<"POP"<<endl;
   deque<dType>::pop_front();
 	--max_size;
 }
