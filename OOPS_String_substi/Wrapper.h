@@ -1,3 +1,7 @@
+/*
+Author: Akshay Joshi
+Date: 2 December 2015
+ */
 #include <iostream>
 #include <fstream>
 #include <string>
@@ -24,3 +28,13 @@ class Wrapper : public fstream
 		void DoOver(char ch);
 		bool EndofFileFunc();
 };
+/*  get
+*  put
+*  do_over (push a character back onto the deque)
+*  eof
+  (and as private data, your tracking deque)
+
+Keeps track of getter and putter
+Pushes a character onto the deque when put threatens
+to overwrite unread character in file.
+*/

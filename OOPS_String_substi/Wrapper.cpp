@@ -1,3 +1,7 @@
+/*
+Author: Akshay Joshi
+Date: 2 December 2015
+ */
 #include "Wrapper.h"
 Wrapper::Wrapper():putPoint(0),getPoint(0),match(0),RealEoF(false)
 {}

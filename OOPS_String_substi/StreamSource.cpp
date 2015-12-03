@@ -1,5 +1,8 @@
+/*
+Author: Akshay Joshi
+Date: 2 December 2015
+ */
 #include "StreamSource.h"
-
 
 	StreamSource::StreamSource(string old_str, string new_str, string file_name)
 :ReplacementString(new_str),SearchString(old_str),filename(file_name),ReplacementCount(0),
@@ -28,7 +31,7 @@ void StreamSource::changer()
 			if(MatchCount < searchStringLen)
 				continue;
 		}
-		if(MatchCount == searchStringLen ) //It's a match!
+		if(MatchCount == searchStringLen ) //matched
 		{
 			changeIt();
 		}
