@@ -1,4 +1,4 @@
-This is Akshay Joshi's Repo of Obejct Orinted codes for CSU Chico course CSCI 511
+This is Akshay Joshi's Repo of Obejct Orinted codes for CSU Chico course CSCI 511 in parenthesis is the name of the folder.
 
 1: Library Search Engine Project C++ (Library_search_engine)
 
